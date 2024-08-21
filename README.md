@@ -14,11 +14,26 @@
 
 ChitroJera is a Bangla regionally relevant Visual Question Answering (VQA) dataset with over 15k samples that captures the cultural connotations associated with the Bengal region. We also establish novel baselines using multimodal pre-trained models and Large Language Models (LLMs).
 
-## Dataset Overview
+## Data Format
+
+Column Title | Description
+------------ | -------------
+`image_id` | The unique identifier of the image
+`category` | Category of the image
+`caption` | Bangla caption of the image
+`caption_en` | English caption of the image
+`question` | Question on the image in Bangla
+`question_en` | Question on the image in English
+`answer` | Answer to the question in Bangla
+`answer_en` | Answer to the question in English
+
+## Data Creation Pipeline
 
 <img src="./assets/datasetOverview.png" alt="Image Not Found"/>
 
-The images of the ChitroJera dataset are sourced from the `BanglaLekhaCaptions`, `Bornon`, and `BNature` datasets. We establish an automated question-answer generation pipeline using the LLMs GPT-4 and Gemini. The quality of the QA pairs is checked by domain experts based on four evaluation criteria. Few images and QA pairs have been provided in the `sample_dataset` folder.
+The images of the ChitroJera dataset are sourced from the `BanglaLekhaCaptions`, `Bornon`, and `BNature` datasets. We establish an automated question-answer generation pipeline using the LLMs GPT-4 and Gemini. The quality of the QA pairs is checked by domain experts based on four evaluation criteria. A few images and QA pairs have been provided in the `sample_dataset` folder.
+
+## QA Statistics
 
 | Q&A Statistics          | Q    | A    |
 |-------------------------|------|------|
