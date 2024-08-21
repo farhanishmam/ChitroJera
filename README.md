@@ -18,7 +18,7 @@ ChitroJera is a Bangla regionally relevant Visual Question Answering (VQA) datas
 
 <img src="./assets/datasetOverview.png" alt="Image Not Found"/>
 
-The images of the ChitroJera dataset are sourced from the `BanglaLekhaCaptions`, `Bornon`, and `BNature` datasets. We establish an automated question-answer generation pipeline using the LLMs GPT-4 and Gemini. The quality of the QA pairs is checked by domain experts based on four evaluation criteria.  
+The images of the ChitroJera dataset are sourced from the `BanglaLekhaCaptions`, `Bornon`, and `BNature` datasets. We establish an automated question-answer generation pipeline using the LLMs GPT-4 and Gemini. The quality of the QA pairs is checked by domain experts based on four evaluation criteria. Few images and QA pairs have been provided in the `sample_dataset` folder.
 
 | Q&A Statistics          | Q    | A    |
 |-------------------------|------|------|
@@ -32,14 +32,12 @@ The images of the ChitroJera dataset are sourced from the `BanglaLekhaCaptions`,
 
 ## Methodology Overview
 
-<img src="./assets/modelOverview.png" alt="Image Not Found"/>
+<img src="./assets/modelOverview.PNG" alt="Image Not Found" width = "650"/>
 The baselines follow a dual-encoder model architecture. The encoders are individually pre-trained and the combined network with the feature aggregator is fine-tuned on the VQA dataset. We perform simple zero-shot prompting using the LLMs.
 
 ## Quick Start
 
- **Pre-trained Multimodal Model** 
- 
- [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/drive/1f6hxAPwqqis9n3i-RFB8ff5mwq_kPk-h?usp=sharing)
+ **Pre-trained Multimodal Model** [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/drive/1f6hxAPwqqis9n3i-RFB8ff5mwq_kPk-h?usp=sharing)
 
 ## Installation
 
@@ -49,6 +47,10 @@ We recommend using a virtual environment. Install the dependencies of this repos
 pip install -r requirements.txt
 ```
 
-## Experiments
+## Training and Evaluation
 
+To train and evaluate the model on VQA, use the following command:
 
+```
+python main.py
+```
