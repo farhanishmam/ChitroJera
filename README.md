@@ -1,6 +1,6 @@
 # ChitroJera: A Regionally Relevant Visual Question Answering Dataset for Bangla
 
-![paper](https://img.shields.io/badge/Paper_Status-In--Progress-yellow)
+![paper](https://img.shields.io/badge/Paper_Status-In--Review-yellow)
 
 [Md Fahim*](https://github.com/md-fahim/), 
 [Deeparghya Dutta Barua*](https://github.com/arg274), 
