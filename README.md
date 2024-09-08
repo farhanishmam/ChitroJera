@@ -48,7 +48,8 @@ The images of the ChitroJera dataset are sourced from the `BanglaLekhaCaptions`,
 ## Methodology Overview
 
 <img src="./assets/modelOverview.PNG" alt="Image Not Found" width = "650"/>
-The baselines follow a dual-encoder model architecture. The encoders are individually pre-trained and the combined network with the feature aggregator is fine-tuned on the VQA dataset. We perform simple zero-shot prompting using the LLMs.
+For the baselines, we consider a dual-encoder-based architecture and the zero-shot performance of LLMs. In the dual-encoder-based model, there are two distinct training stages: pretraining and finetuning. During pretraining, both the image and text are fed into their respective encoders to obtain hidden representations, and a co-attention module is used for modality alignment. For pretraining, we use ITM, MLM, and ITC-based objectives, and during finetuning, a feature aggregation module is incorporated for classification tasks.
+
 
 ## Quick Start
 
