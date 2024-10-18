@@ -2,12 +2,13 @@
 
 ![paper](https://img.shields.io/badge/Paper_Status-In--Review-yellow)
 
-[Md Fahim*](https://github.com/md-fahim/), 
+
 [Deeparghya Dutta Barua*](https://github.com/arg274), 
 [Md Sakib Ul Rahman Sourove*](https://github.com/souroveskb), 
-[Md Farhan Ishmam](https://farhanishmam.github.io/), 
+[Md Farhan Ishmam*](https://farhanishmam.github.io/),
+[Fabiha Haider](https://github.com/FabihaHaider),
 [Fariha Tanjim Shifat](https://github.com/fariha6412), 
-[Fabiha Haider](https://github.com/FabihaHaider), and 
+[Md Fahim](https://github.com/md-fahim/), and 
 [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
 
 ---
