@@ -1,14 +1,16 @@
 # ChitroJera: A Regionally Relevant Visual Question Answering Dataset for Bangla
 
-![paper](https://img.shields.io/badge/Paper_Status-In--Review-yellow)
+[![anthology](https://img.shields.io/badge/-ECML%20PKDD%202025-004b96?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAUCAYAAAADU1RxAAAACXBIWXMAAAB7AAAAewFHS0ubAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABOBJREFUSImVlV1oHFUUx3/nzuymSZuIqUiLFttA1Yqg0lqlrslOssk2qaIgVPoiQkEffKjgB7ZiaylIX0RREdQHEcWPFxHR6GbXnS1drbSKVhDBqvWDGtumbT7cbLK7c48PmUkma1v0wMDcc+75n/853Pu/kunp+ZkmU7i/UCodBMh43naBh4DVQE3gO4Xd1phREwTF+RzXHSwUCj8C9Pf2ZrH2ZQBEbN7312az2cvt7OwhADHmvpFi8fMo10Wkq5mEiLQB9Hve0wJ7mgj2q+qTCWsTQSxXgmAI+DFc3jWPq2oBpFp1cJwuAGttWxzTzIPAoy2NRmdLo9F5bnKy6HneCmBXCPR2orX1kgasCqd0JIZRD/cMznuszQIzzc1dyNxYh6ma67oAXV1dz507dWoQkQSAdZxdw8PDk8Ak8EYTxhgwjkh3NptdGgTBFTI3hRyQPV9R4zhy3kkAdyvsV9g/MTGREGNWhv6ZYrH4+0UaSSiMAEuYne3F2s0AKlK8SM4ic2P/nwJHVbVSq9VmEzARFVm/fr1LNPbzYKhqTkR2WGMGxdqrEKmrSFlUz5ugqosm4cYi7+dLpdeiZbav7we1FsDpbG+/F3gLYGhoqKVarQYtMYylHR0HqlNTM1h7D7AM+NI0GlVMfNAXNsmk0xHdH4ATAAI786XS15l0+ntgXTiFzwRUYZMLNyq4ARxDdTpfKi0d8LwRhf4Q66lwOodRtflSydnc3b0ycJw/w/g3wBkAETkUp7oOyAAZFVmuqorr3hGSSwCbFQaBZdbaYKENEYDwXABgjRnRpsPXZDfN17L2BteIbGje4SxZcgwgn8//slfk+nI6vVFUV2HMWWvMtznfPzM0NNSiMzMbbBBYgNb29pcrlUrRVZVUsfjNFwMDrdTrG5jjyNj09Njyjo5/1WoYMy5bUqlLI8e4aqNcLk9F670i5kgqdQlAxXWnfN9vbN261ZkeHe0AsO3t00EQuInp6WSUc3O5PLEnFKjINm3a1NrpOEuinOHh4dl43My67tnoa00kJjOed3wgnd4GUM5kVkexhMgtAONjY/tC3/GgUrnc1usvxjHK6fR4xvM+7O3tvSYq0pZMPhHF69XqTL/nNfo972Amnb4dFuvEaaAisFpF3sx63rVxtqoqfX19G1X1MQCFHbkDB/6ITxY4B7QJ3OmoHhno6VkLYIyR2J4TgAVSIpLv97yUiVV50gmCtaHWOwqpJhKtJgheZ+5af1Dw/UXKKaqH877fKXArc5Ldbo15nMU2mvf9K124GjgJtAB7Fl3khjGro9OO6kQ8JiK7EbkOOG2SyQebwFERBRjx/a+Aj0NiG6MpRp0AfOL7vyq8G6besiBWIq/G7tRpt60tV6/XL4vViSYT1Gq16WYSi0zkLKog0trkX5BQ1ZPhzWlrlrQxoIC12fDBittXwN/AChceuSgJ1VXh35moPIDCPAkxZk34ezou2w/EZfvfzcnDwBZV3Qk86nneK77v/xUvnc1mlwa12p2yoJwfLcIA9TzPTRrTjeq2kNh7/03cQ7PGPAtMAcsS8HRTOGVrtb8F3mHuYB81yeTzc/3NP1hrXKhbaz9j7o35yUkmn/lfJAqFwhnghbCD7f09Peti4TpzV/SYiOxzksnbcrlcpQkiCPf8BrzkBEF3Lpc79Q83KSOPGjfUFwAAAABJRU5ErkJggg==&style=flat&labelColor=white)](https://arxiv.org/abs/2410.14991)
 [![arXiv](https://img.shields.io/badge/Code-farhanishmam/ChitroJera-blue?logo=GitHub)](https://github.com/farhanishmam/ChitroJera)
 
 [Deeparghya Dutta Barua*](https://github.com/arg274), 
 [Md Sakib Ul Rahman Sourove*](https://github.com/souroveskb), 
-[Md Farhan Ishmam*](https://farhanishmam.github.io/),
+[Md Fahim*](https://github.com/md-fahim/),
 [Fabiha Haider](https://github.com/FabihaHaider),
 [Fariha Tanjim Shifat](https://github.com/fariha6412), 
-[Md Fahim](https://github.com/md-fahim/), and 
+[Md Tasmim Rahman Adib](https://github.com/Tasmim-Adib),
+[Anam Borhan Uddin](https://github.com/Borhan20),
+[Md Farhan Ishmam](https://farhanishmam.github.io/), and 
 [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
 
 ---
