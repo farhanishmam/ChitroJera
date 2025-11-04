@@ -77,3 +77,17 @@ To train and evaluate the model on VQA, use the following command:
 ```
 python main.py
 ```
+
+## Citation
+
+If you found our work useful, please consider citing:
+```
+@inproceedings{barua2025chitrojera,
+  title={ChitroJera: A Regionally Relevant Visual Question Answering Dataset for Bangla},
+  author={Barua, Deeparghya Dutta and Sourove, Md Sakib Ul Rahman and Fahim, Md and Haider, Fabiha and Shifat, Fariha Tanjim and Rahman Adib, Md Tasmim and Uddin, Anam Borhan and Ishmam, Md Farhan and Alam, Md Farhad},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={473--491},
+  year={2025},
+  organization={Springer}
+}
+```
